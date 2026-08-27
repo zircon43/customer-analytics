@@ -83,7 +83,7 @@ plt.title('Cohort Retention Heatmap')
 plt.ylabel('Cohort Month')
 plt.xlabel('Months Since First Purchase')
 plt.tight_layout()
-plt.savefig('/home/zircon/.gemini/antigravity-ide/brain/0dc9c1b0-d62c-4c82-bd98-8ed81f3f2885/cohort_heatmap.png')
+plt.savefig('cohort_heatmap.png')
 print("Saved cohort heatmap.")
 
 # ---------------------------------------------------------
